@@ -1,5 +1,7 @@
 # Wren — Your AI Writing Coach That Knows Your Voice
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every grammar tool checks your commas. Wren develops **your voice** — she remembers your style, your strengths, your patterns, and the specific things that make your writing yours. She gives feedback that makes you a better writer without making you sound like someone else.
 
 ## The Problem
