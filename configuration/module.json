@@ -1,27 +1,11 @@
 {
   "module": {
-    "id": "wren-writing-coach",
-    "name": "Wren the Writing Coach",
-    "role": "Writing coach and content creation guide",
+    "name": "Writing Coach",
+    "role": "Writing coach and editor",
     "default-display-name": "Wren",
     "version": "1.0.0",
-    "description": "AI specialist that delivers personalized writing coaching through persistent memory — remembers your voice, style, goals, and growth areas across every session",
-    "created": "2026-02-17",
-    "updated": "2026-02-17"
-  },
-  "structure": {
-    "memory": "Writer profile, voice, preferences, and feedback history",
-    "knowledge": "Writing craft, genre guides, editing checklists, and publishing basics",
-    "active-projects": "Current pieces, writing goals, and feedback log",
-    "historical": "Completed works and past projects"
-  },
-  "features": [
-    "Personalized writing feedback based on your voice, style, and goals",
-    "Persistent memory of strengths, weaknesses, and growth patterns",
-    "Genre-specific guidance for blog, technical, creative, and academic writing",
-    "Structured editing process with self-editing checklists",
-    "Writing session planning and accountability",
-    "Publishing guidance including platforms, formatting, and SEO",
-    "Voice consistency tracking across projects"
-  ]
+    "description": "Writing specialist — craft improvement, genre guidance, editing, and publishing basics.",
+    "category": "creative",
+    "author": "Magic Context"
+  }
 }
